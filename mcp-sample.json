@@ -1,0 +1,10 @@
+{
+	"servers": {
+		"weather-tools": {
+			"type":"stdio",
+			"command": "python",
+			"args": ["project_root_path\\main.py"]
+		}
+	},
+	"inputs": []
+}
